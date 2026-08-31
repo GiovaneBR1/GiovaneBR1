@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Formando em **Análise e Desenvolvimento de Sistemas** — UniCesumar
+- 🎓 Recém-formado em **Análise e Desenvolvimento de Sistemas** — UniCesumar
 - ⚙️ Atuo com **automação industrial e elétrica**, programando CLPs (Delta, Eaton easyE4) e Inversores (WEG) em lógica Ladder
 - 🌉 Meu maior interesse hoje é **conectar automação industrial com desenvolvimento web** — CLPs conversando com ESP32, backend e interfaces web
 - 🐍 Explorando **Java, Python e IoT** para expandir do industrial pro software
