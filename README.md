@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=java,py,html,css,js,arduino,git,github,vscode,eclipse" alt="Ícones de tecnologias" />
 </p>
 
-**Automação industrial:** Ladder · CLPs Delta e Eaton easyE4 · Inversores WEG · Controle PID · WLP · WPS · TP Editor · ISPSoft · Cscape
+**Automação industrial:** Ladder · CLPs · Inversores  · Controle PID · WLP · WPS · TP Editor · ISPSoft · Cscape
 
 <br>
 
